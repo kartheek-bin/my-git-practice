@@ -1,2 +1,2 @@
 # greetings.py
-print("Hello, World!")
+print("Hello, World!") # This is the original greeting
