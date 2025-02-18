@@ -1,2 +1,4 @@
 # greetings.py
-print("Hello, World!") # This is the original greeting
+name = input("Enter your name: ")
+print(f"Hello, {name}!")
+
